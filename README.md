@@ -1,6 +1,9 @@
 # 🌟 About
 This project utilizes **Java Spring Boot** and **AngularJS** to create a web application for computational numeric calculations. 🚀
 
+## 📖 Read in Portuguese
+For Portuguese documentation, see [README.pt.md](README.pt.md).
+
 ## 🛠️ Necessary Tools
 - **Java 17** ☕
 - **Java IDE** (e.g., IntelliJ IDEA, Eclipse) 💻
