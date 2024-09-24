@@ -64,6 +64,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 ### 6. Licença
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes. 📜
-```
-
-Se precisar de mais alguma coisa, é só avisar!
