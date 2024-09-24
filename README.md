@@ -33,7 +33,7 @@ java -version
 
 Open the project in your Java IDE (e.g., IntelliJ IDEA).
 
-correct path to directory for springBootAplication "src/main/java/com/unip/computationalnumericcalculation/ComputationalnumericcalculationApplication.java"
+correct path to directory for springBootAplication "backend/src/main/java/com/unip/computationalnumericcalculation/ComputationalnumericcalculationApplication.java"
 
 Run the Spring Boot application. You can do this by right-clicking on the main class (with the @SpringBootApplication annotation) and selecting "Run".
 
