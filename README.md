@@ -1,19 +1,19 @@
-# Sobre
-Este projeto utiliza Java Spring Boot e AngularJS para criar uma aplicação web para cálculos numéricos computacionais.
+# 🌟 About
+This project utilizes **Java Spring Boot** and **AngularJS** to create a web application for computational numeric calculations. 🚀
 
-## Necessary Tools
-- **Java 17**
-- **Java IDE (ex: IntelliJ IDEA, Eclipse)**
-- **Node.js** (para Angular)
-- **Angular CLI**
+## 🛠️ Necessary Tools
+- **Java 17** ☕
+- **Java IDE** (e.g., IntelliJ IDEA, Eclipse) 💻
+- **Node.js** (for Angular) 🌐
+- **Angular CLI** ⚙️
 
-## Instruções / Instructions
+## 📚 Instructions
 
-### 1. Clone o Repositório / Clone the Repository
-Primeiro, clone este repositório em sua máquina local:
+### 1. Clone the Repository
+First, clone this repository to your local machine:  
 ```bash
 git clone https://github.com/PedroFurigo/Computational-Numeric-Calculation.git
-``` 
+```
 
 ### 2.Set Up the Backend (Java Spring Boot)
 Navigate to the project directory:
@@ -57,13 +57,13 @@ Start the Angular development server:
 ```bash
 ng serve
 ```
-Access the application in your browser at http://localhost:4200.
+Access the application in your browser at http://localhost:4200. 🌍
 
 ### 4. How to Use
-After setting up and running the backend and frontend, you can use the application to perform computational numeric calculations directly in the interface.
+After setting up and running the backend and frontend, you can use the application to perform computational numeric calculations directly in the interface. 🧮
 
 ### 5. Contributions
-Contributions are welcome! Feel free to open issues or pull requests.
+This project is licensed under the MIT License - see the LICENSE file for details. 📜
 
 ### 6. License
 This project is licensed under the MIT License - see the LICENSE file for details.
