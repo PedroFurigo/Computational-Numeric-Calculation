@@ -30,6 +30,8 @@ java -version
 
 Open the project in your Java IDE (e.g., IntelliJ IDEA).
 
+correct directory for springBootAplication "src/main/java/com/unip/computationalnumericcalculation/ComputationalnumericcalculationApplication.java"
+
 Run the Spring Boot application. You can do this by right-clicking on the main class (with the @SpringBootApplication annotation) and selecting "Run".
 
 The backend should be running at http://localhost:8080.
